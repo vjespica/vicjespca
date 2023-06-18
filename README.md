@@ -1,20 +1,20 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**vicjespca/vicjespca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Soy Victor, un Full-Stack Engineer con excepcionales habilidades de programación, depuración y resolución de problemas para garantizar la calidad general de un producto. Autodidacta, y de rápido aprendizaje que trabaja eficientemente en equipo. Interesado en desarrollar y gestionar proyectos utilizando metodologías ágiles para garantizar una excelente experiencia de usuario, superar los objetivos de la empresa y mejorar las habilidades de desarrollador full-stack.
 
-Here are some ideas to get you started:
+### Dev Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgresql,git,github,javascript,react,node,html,css,figma" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicjespca&layout=compact)](https://github.com/alejandro1709/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicjespca&" alt="vicjespca" /></p>
+### Soft skills
+   - Empatía
+   - Trabajo en equipo
+   - Comunicación
+   - Open-Mindedness
+   - Autoaprendizaje
+   - Resolución de problemas

@@ -1,11 +1,7 @@
 # Hola 👋
 
-Soy Victor, un Full-Stack Engineer con excepcionales habilidades de programación,
-depuración y resolución de problemas para garantizar la calidad general de un
-producto. Autodidacta y de rápido aprendizaje que trabaja eficientemente en
-equipo. Interesado en desarrollar y gestionar proyectos utilizando metodologías
-ágiles para garantizar una excelente experiencia de usuario, superar los
-objetivos de la empresa y mejorar las habilidades de desarrollador full-stack.
+Soy Victor, un Full-Stack Engineer con excepcionales habilidades de programación, depuración y resolución de problemas para garantizar la calidad general de un producto. Autodidacta y de rápido aprendizaje, trabajo eficientemente en equipo. Interesado en desarrollar y gestionar proyectos utilizando metodologías ágiles para garantizar una excelente experiencia de usuario, superar los objetivos de la empresa y mejorar las habilidades de desarrollador full-stack.
+
 
 ## Dev Skills
 

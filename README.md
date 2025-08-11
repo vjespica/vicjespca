@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgresql,git,github,javascript,react,nodejs,html,css,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgresql,git,github,javascript,react,nodejs,html,css,figma,aws" alt="Íconos de habilidades" />
   </a>
 </p>
 

@@ -11,10 +11,10 @@
 </p>
 
 
-### Soft skills
+### Habilidades blandas
    - Empatía
    - Trabajo en equipo
    - Comunicación
-   - Open-Mindedness
+   - Apertura de mente
    - Autoaprendizaje
    - Resolución de problemas

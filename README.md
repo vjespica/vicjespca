@@ -15,14 +15,16 @@ Soy Victor, un Full-Stack Engineer con excepcionales habilidades de programació
 
 [![My Skills][skills-icons]][skills-link]
 
-## Soft skills
 
-- Empatía
-- Trabajo en equipo
-- Comunicación
-- Open-Mindedness
-- Autoaprendizaje
-- Resolución de problemas
+### Habilidades blandas
+   - Empatía
+   - Trabajo en equipo
+   - Comunicación
+   - Apertura de mente
+   - Autoaprendizaje
+   - Resolución de problemas
+
 
 <!-- markdownlint-disable-next-line MD013 -->
 [skills-link]: <https://skillicons.dev>
+
